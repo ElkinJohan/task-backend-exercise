@@ -1,0 +1,5 @@
+INSERT INTO task (created_date,description,eta,finished,task_status,title) VALUES ('2022-04-28 12:26:19.292389000','prueba de la tarea 1','2022-04-28 17:24:19.157000000',0,'ON_TIME','Tarea 1');
+INSERT INTO task (created_date,description,eta,finished,task_status,title) VALUES ('2022-04-28 12:26:33.780406000','prueba de la tarea 2','2022-04-28 17:24:19.157000000',0,'ON_TIME','Tarea 2');
+INSERT INTO task (created_date,description,eta,finished,task_status,title) VALUES ('2022-04-28 12:26:45.998785000','prueba de la tarea 3','2022-04-28 17:24:19.157000000',1,'ON_TIME','Tarea 3');
+INSERT INTO task (created_date,description,eta,finished,task_status,title) VALUES ('2022-04-28 12:28:00.037172000','prueba de la tarea 4','2022-04-28 17:24:19.157000000',0,'ON_TIME','Tarea 4');
+INSERT INTO task (created_date,description,eta,finished,task_status,title) VALUES ('2022-04-28 12:28:06.391203000','prueba de la tarea 5','2022-04-28 17:24:19.157000000',0,'ON_TIME','Tarea 5');
